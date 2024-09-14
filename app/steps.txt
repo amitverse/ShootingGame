@@ -1,0 +1,7 @@
+1.1) build main function
+
+1.2) run the command go mod init /folder-name to initiate go.mod file
+
+1.3) go mod tidy 
+
+issue1) sdl.INIT_EVERTHING := cannot use sdl.INIT_EVERYTHING (constant unknown with invalid type) as uint32 value in argument to sdl.Init
